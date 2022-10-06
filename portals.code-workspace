@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../retro_build/rb_frontend"
+		},
+		{
+			"path": "../zxlib"
+		},
+		{
+			"path": "../retro_build/rb_backend"
+		}
+	]
+}

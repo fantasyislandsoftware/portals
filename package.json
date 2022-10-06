@@ -1,0 +1,23 @@
+{
+    "name": "portals",
+    "version": "1.0.0",
+    "description": "",
+    "main": "build.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fantasyislandsoftware/portals.git"
+    },
+    "author": "Andy Jones",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/fantasyislandsoftware/portals/issues"
+    },
+    "homepage": "https://github.com/fantasyislandsoftware/portals#readme",
+    "dependencies": {
+        "sync-request": "^6.1.0"
+    }
+}
