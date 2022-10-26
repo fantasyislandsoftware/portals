@@ -1,3 +1,6 @@
 // test c program
 
-void main() {}
+void main() {
+  while (1) {
+  }
+}

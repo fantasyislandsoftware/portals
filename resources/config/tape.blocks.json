@@ -1,0 +1,9 @@
+[{
+    "name": "portals",
+    "path": "./src",
+    "fileName": "portals_CODE.bin",
+    "address": "${org}",
+    "alloc": -1,
+    "type": "BIN",
+    "color": "#0066ff"
+}]
